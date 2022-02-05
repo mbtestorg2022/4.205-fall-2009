@@ -30,9 +30,39 @@ Assignment Files
 
 The table below contains a list of building suggestions and examples of student projects. All student work is used with permission.
 
-| ASSIGNMENT FILES |
-| --- |
-| Building list and bibliography notes ([PDF]({{< baseurl >}}/resources/mit4_205f09_assn)) |
-| "Kaufmann Desert House" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 23.6MB](/ans7870/4/4.205/f09/projects/sw1.pdf)) |
-| "Taliesin West" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit4_205f09_sw2)) |
-| "Victoria McAlmon House" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.7MB](/ans7870/4/4.205/f09/projects/sw3.pdf))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENT FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Building list and bibliography notes ([PDF]({{< baseurl >}}/resources/mit4_205f09_assn))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Kaufmann Desert House" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 23.6MB](/ans7870/4/4.205/f09/projects/sw1.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Taliesin West" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit4_205f09_sw2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Victoria McAlmon House" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.7MB](/ans7870/4/4.205/f09/projects/sw3.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -26,40 +26,316 @@ There will be weekly assigned readings to be done prior to class and these readi
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Completion of reading assignments on time | 40% |
-| Class participation and attendance | 30% |
-| Final project | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Completion of reading assignments on time
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and attendance
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Louis Sullivan: Adler and Sullivan |
-| 3 | Frank Lloyd Wright |
-| 4 | Adolf Loos, Peter Behrens and the German Werkbund |
-| 5 | De Stijl and Schrader Schroder house |
-| 6 | Walter Gropius: Bauhaus and Harvard |
-| 7 | Visit Gropius House, Lincoln, MA |
-| 8 |  {{< br >}}{{< br >}} Le Corbusier buildings and cities {{< br >}}{{< br >}} Documentary: La Tourette {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Mies van der Rohe: Berlin and America, less is more {{< br >}}{{< br >}} Documentary: Mies {{< br >}}{{< br >}}  |
-| 10 | Philip Johnson and the International Style of 1932 |
-| 11 | Alvar Aalto |
-| 12 | Louis Kahn |
-| 13 | Eero Saarinen, Paul Rudolph |
-| 14 | Case-study house program |
-| 15 | Field trip to Yale, overnight stay with Sunday trip to Exeter Library |
-| 16 | Urbanism CIAM and Team X |
-| 17 | Aldo Van Eyck |
-| 18 | James Stirling |
-| 19 | Aldo Rossi and Carlo Scarpa |
-| 20 | Five Architects: Eisenman, Graves, Gwathmey, Hejduk, Meier |
-| 21 | Post Modernism: less is a bore |
-| 22 | Deconstructivist architecture |
-| 23 |  {{< br >}}{{< br >}} Rem Koolhaas and Frank Gehry {{< br >}}{{< br >}} Documentary: Sketches of Frank Gehry {{< br >}}{{< br >}}  |
-| 24 | Suburbia, sprawl, Congress for New Urbanism, Duany Plater-Zyberk |
-| 25 | William McDonough, green building practices |
-| 26 | Final review exhibition
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Louis Sullivan: Adler and Sullivan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Frank Lloyd Wright
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Adolf Loos, Peter Behrens and the German Werkbund
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+De Stijl and Schrader Schroder house
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Walter Gropius: Bauhaus and Harvard
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Visit Gropius House, Lincoln, MA
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Le Corbusier buildings and cities
+
+Documentary: La Tourette
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mies van der Rohe: Berlin and America, less is more
+
+Documentary: Mies
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Philip Johnson and the International Style of 1932
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Alvar Aalto
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Louis Kahn
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Eero Saarinen, Paul Rudolph
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Case-study house program
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to Yale, overnight stay with Sunday trip to Exeter Library
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Urbanism CIAM and Team X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Aldo Van Eyck
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+James Stirling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Aldo Rossi and Carlo Scarpa
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Five Architects: Eisenman, Graves, Gwathmey, Hejduk, Meier
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Post Modernism: less is a bore
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Deconstructivist architecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rem Koolhaas and Frank Gehry
+
+Documentary: Sketches of Frank Gehry
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Suburbia, sprawl, Congress for New Urbanism, Duany Plater-Zyberk
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+William McDonough, green building practices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final review exhibition
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
