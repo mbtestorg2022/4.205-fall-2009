@@ -48,19 +48,19 @@ Building list and bibliography notes ([PDF]({{< baseurl >}}/resources/mit4_205f0
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Kaufmann Desert House" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 23.6MB](/ans7870/4/4.205/f09/projects/sw1.pdf))
+"Kaufmann Desert House" ([PDF - 23.6MB](/ans7870/4/4.205/f09/projects/sw1.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Taliesin West" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit4_205f09_sw2))
+"Taliesin West" ([PDF - 1.8MB]({{< baseurl >}}/resources/mit4_205f09_sw2))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Victoria McAlmon House" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.7MB](/ans7870/4/4.205/f09/projects/sw3.pdf))
+"Victoria McAlmon House" ([PDF - 6.7MB](/ans7870/4/4.205/f09/projects/sw3.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
